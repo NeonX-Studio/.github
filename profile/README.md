@@ -1,6 +1,11 @@
-# NeonX Studio
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NeonX-Studio/.github/main/profile/assets/neonx-horizontal-transparent.png">
+    <img alt="NeonX Studio" src="https://raw.githubusercontent.com/NeonX-Studio/.github/main/profile/assets/neonx-horizontal-light.png" width="460">
+  </picture>
+</p>
 
-> 游戏 × 人工智能的未来
+<p align="center"><strong>游戏 × 人工智能的未来</strong></p>
 
 NeonX Studio 是一个关注游戏与人工智能交汇的创意工作室。我们探索技术如何扩展想象力，也将想法转化为值得体验的互动作品。
 
@@ -19,4 +24,4 @@ NeonX Studio 是一个关注游戏与人工智能交汇的创意工作室。我�
 
 ---
 
-<p align="center"><strong>NEONX / STUDIO</strong><br>GAME × AI</p>
+<p align="center"><img src="https://raw.githubusercontent.com/NeonX-Studio/.github/main/profile/assets/neonx-mark-transparent.png" alt="NeonX" width="40"><br><sub>NEONX STUDIO · GAME × AI</sub></p>
